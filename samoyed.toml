@@ -1,3 +1,3 @@
 [hooks]
-pre-commit = "npx prettier --write \"**/*.md\""
-pre-push = "npx prettier --check \"**/*.md\""
+pre-commit = "npx prettier --loglevel debug --write \"**/*.md\""
+pre-push = "npx prettier --loglevel debug --check \"**/*.md\""
