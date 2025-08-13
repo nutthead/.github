@@ -5,6 +5,7 @@
 We build software where we think we can make a difference. Currently shipping:
 
 ## [**samoyed**](https://github.com/nutthead/samoyed)
+
 [![Samoyed's Stars](https://img.shields.io/github/stars/nutthead/samoyed)](https://github.com/nutthead/samoyed/stargazers)
 
 Ultra-fast Rust Git hooks manager.
@@ -27,4 +28,4 @@ Ultra-fast Rust Git hooks manager.
 - **Sponsor:** [💕 GitHub Sponsors](https://github.com/sponsors/behrangsa) • [Patreon](https://patreon.com/__nutthead__)
 <!--- **Connect:** [@__nutthead__](https://x.com/__nutthead__) • [studio@nutthead.org](mailto:studio@nutthead.org)-->
 
-*Building the tools we wish existed.*
+_Building the tools we wish existed._
