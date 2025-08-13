@@ -5,6 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Repository Overview
 
 This is a special GitHub organization repository for [Nutthead Studios](https://github.com/nutthead) that contains:
+
 - Organization profile README content (profile/README.md)
 - Organization-wide documentation and assets
 - Git hooks configuration using samoyed
@@ -12,6 +13,7 @@ This is a special GitHub organization repository for [Nutthead Studios](https://
 ## Development Commands
 
 ### Git Hooks Management
+
 This repository uses [samoyed](https://github.com/nutthead/samoyed), a Rust-based Git hooks manager. Configuration is in `samoyed.toml`:
 
 ```bash
@@ -21,6 +23,7 @@ This repository uses [samoyed](https://github.com/nutthead/samoyed), a Rust-base
 ```
 
 ### Formatting
+
 ```bash
 # Format Markdown files (run automatically on pre-commit)
 npx prettier --log-level debug --write "**/*.md"
