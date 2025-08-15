@@ -14,9 +14,11 @@ Ultra-fast Rust-based git hooks manager.
 ---
 
 **Our Promise:** Software that is a pleasure to use, is lightning-fast, and harmonious.  
-**We Are:** UNIX-first (Linux • BSD • macOS)  
-**We Support:** UNIX (Linux, BSD, and macOS) • Windows • Mobiles and Tablets  
+**We Are:** UNIX-first (Linux • BSD* • macOS)  
+**We Support:** UNIX (Linux, BSD*, and macOS) • Windows* • Mobiles and Tablets  
 **Revenue/Sustainability Model:** Community donations • Corporate sponsorships  
+
+\* At the moment, we cannot support BSD and Windows to the extent we want to. But we will get there.
 
 ![Hero Image](assets/hero-2.webp)
 
