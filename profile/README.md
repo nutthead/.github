@@ -27,4 +27,6 @@ Ultra-fast Rust-based git hooks manager.
 - **Contribute 🤝:** [Good first issues](https://github.com/nutthead/samoyed/issues?q=is%3Aissue%20state%3Aopen%20label%3Acommunity%3Agood-first-issue)
 - **Sponsor 💕:** [GitHub Sponsors](https://github.com/sponsors/nutthead) • [Patreon](https://patreon.com/__nutthead__)
 
-<a rel="me" href="https://mastodon.social/@behrangsa" style="display: none;">Mastodon</a>
+## Around the Web
+
+- <a rel="me" href="https://mastodon.social/@behrangsa">🌐 Mastodon</a>
